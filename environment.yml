@@ -1,6 +1,6 @@
 name: LCA-mobility
 dependencies:
-- python
+- python=3.7.7
 - pip
 - openpyxl
 - matplotlib
