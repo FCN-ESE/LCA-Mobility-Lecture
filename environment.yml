@@ -1,0 +1,12 @@
+name: LCA-mobility
+dependencies:
+- python
+- pip
+- openpyxl
+- matplotlib
+- xlrd
+- numpy
+- pandas
+- scipy
+- ipywidgets
+- traitlets
